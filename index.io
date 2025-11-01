@@ -9,16 +9,7 @@
 <body>
 
     <div class="container">
-        <div class="card">
-            <div class="border-top"></div>
-            <div class="border-right"></div>
-            <div class="border-bottom"></div>
-            <div class="border-left"></div>
-            <div class="square-top"></div>
-            <div class="square-right"></div>
-            <div class="square-bottom"></div>
-            <div class="square-left"></div>
-        </div>
+
         <div class="card">
             <div class="border-top"></div>
             <div class="border-right"></div>
