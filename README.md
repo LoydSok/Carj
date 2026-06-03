@@ -91,3 +91,8 @@ bin/content.js __fixtures__/ddata1.json
 Почта: { id: 10, email: James }, { id: 3, email: Noah }, { id: 4, email: Sophia }, { id: 6, email: Ava }, { id: 7, email: Mia }, { id: 8, email: William }, { id: 9, email: Isabella }
 Уникальные названия фильмов: Fight Club, Forrest Gump, Jurassic Park, Pulp Fiction, Star Wars: Episode IV - A New Hope, The Avengers, The Dark Knight Rises, The Lion King, The Matrix, The Shawshank Redemption, Titanic
 ```
+
+
+- `ssh-keygen` - эта команда генерирует ssh ключ. Каждый раз при вопросе нажимайте ентер.
+- `cat ~/.ssh/id_rsa.pub` - эта команда читает содержимое ssh ключа.
+- Войдите в свой профиль на гитхабе. Зайдите в настройки профиля (клик по иконке профиля справа вверху, настройки), перейдите в раздел "SSH-ключи", нажмите New ssh key. Ведите имя ключа в поле сверху, а все прочитанное содержимое нового ключа в поле ниже. Затем нажмите кнопку добавить.
